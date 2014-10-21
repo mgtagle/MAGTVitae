@@ -1,0 +1,1 @@
+pandoc -H margins.sty --bibliography marco_references.bib --csl forest-ecology-and-management.csl FullVitae.md -o FullVitae.pdf
